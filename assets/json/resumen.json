@@ -1,0 +1,66 @@
+[
+  {
+    "_id": {
+      "$oid": "61f340e900360378ee784265"
+    },
+    "resumen": "Estudiante de sistemas computacionales actual mente en curso en el ***Tecnológico Nacional de México*** ( ***TecNM*** ) campus colima, con cuatro años de experiencia en el desarrollo web y móvil con las tecnológicas ***net*** y ***flutter***",
+    "educaion": [
+      {
+        "titulo": "",
+        "instituto": " Instituto Tecnológico de Colima. ",
+        "localidad": " Villa de Álvarez, Col, México. ",
+        "inicio":"2018-01-01T06:00:00Z",
+        "fin": null,
+        "detalles": "Este es el punto en donde me encuentro, aquí llevo mi conocimiento un paso más adelante de lo que tengo, en donde espero aprender nuevos temas y ramas de la profesional que elegí"
+      },
+      {
+        "titulo": "Tecnico en Programación",
+        "instituto": " CBTIS 19 – DGETI Colima. ",
+        "localidad": " Colima, Col, México. ",
+        "inicio": {
+          "$date": "2015-01-01T06:00:00Z"
+        },
+        "fin": {
+          "$date": "2018-01-01T06:00:00Z"
+        },
+        "detalles": "Aquí fue donde comprobé que esto es lo que quería ser, me introduje más al mundo de la programación, Sistemas Operativos ( Linux ), y más. Obtuve los fundamentos que necesitaba para poder dedicarme a lo que me apasiona."
+      },
+      {
+        "titulo": "",
+        "instituto": "Escuela Secundaria Gral.Manuel Álvarez.",
+        "localidad": "Villa de Álvarez, Col, México.",
+        "inicio": {
+          "$date": "2012-01-01T06:00:00Z"
+        },
+        "fin": {
+          "$date": "2015-01-01T06:00:00Z"
+        },
+        "detalles": "Aquí fue donde empecé y decidí lo que quiera ser, gracias a mi maestro de computación que el lugar de enseñar lo que todos enseñan (Word, excel, powerpoint), él nos introdujo al mundo de las páginas web, a edición de imagen con Photoshop, etc. De aquí decidir ir al cbtis 19 en la carrera de programación, para aprender mas de esto me gusta"
+      }
+    ],
+    "experiecnia": [
+      {
+        "puesto": "Administrado de Base de datos",
+        "instituto": " SNTSS . ",
+        "localidad": " Colima, Col, México. ",
+        "inicio": {
+          "$date": "2021-01-01T06:00:00Z"
+        },
+        "fin": {
+          "$date": "2021-01-01T06:00:00Z"
+        },
+        "detalles": "Proyecto en conjunto entre dos colegas y yo para el desarrollar una página para la facilitación de la búsqueda de centro de votación para legitimación del contrato colectivo de trabajo del SNTSS. \n\n- Diseño de la base de datos \n- Validación de datos \n- Estructura de respuesta"
+      },
+      {
+        "puesto": "Desarrollo web &amp; Desarrollo Móvil",
+        "instituto": "Cositec.",
+        "localidad": "Villa de Álvarez, Col, México.",
+        "inicio": {
+          "$date": "2018-01-01T06:00:00Z"
+        },
+        "fin": null,
+        "detalles": "***Cómputo Sistemas y Tecnología*** en este lugar hice mis prácticas profesionales del bachillerato, al terminar mi servicio quedé como becario, es el lugar en donde me encuentro actualmente.\n\n- Desarrollo de aplicaciones web utilizando .Net con el lenguaje C# como base, JavaScript y JQuery como auxiliares. \n- Desarrollo de aplicaciones móviles utilizando el framework Flutter para crear aplicaciones móviles, el lenguaje dart como lenguaje base \n-  Administrador de bases de datos SQL, usando vistas y procesos almacenados para mostrar y manejar la información del lado del servidor, usando respuestas estructuras para manejarla mejor del lado del cliente"
+      }
+    ]
+  }
+]

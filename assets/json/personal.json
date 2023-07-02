@@ -1,0 +1,31 @@
+[
+  {
+    "_id": {
+      "$oid": "61f3329300360378ee78423e"
+    },
+    "nombres": "Luis Emilio",
+    "Apellidos": "Partida Contreras",
+    "sobremi": "Mexicano, originario de Colima, especializado en el desarrollo de aplicaciones web y aplicaciones móviles. Apasionado de aprender nuevas tecnologías para innovar \n \nCon cuatro años de experiencia en el desarrollo web con la tecnología **Net** y desarrollo móvil con con la tecnología **flutter**",
+    "ciudad": "Colima, Col, México",
+    "titulo": "Técnico en Programación",
+    "labor": "Backend Developer & Web Developer.",
+    "email": "tdtxle@gmail.com",
+    "redes": [
+      {
+        "nombre": "linkedin",
+        "url": "https://www.linkedin.com/in/emilio-partida-68a6a71b9/",
+        "icon": ""
+      },
+      {
+        "nombre": "github",
+        "url": "https://github.com/LuisDeLaValie",
+        "icon": ""
+      },
+      {
+        "nombre": "gitlab",
+        "url": "https://gitlab.com/LuisDeLaValie",
+        "icon": ""
+      }
+    ]
+  }
+]

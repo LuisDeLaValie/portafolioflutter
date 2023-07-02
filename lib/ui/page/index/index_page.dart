@@ -24,15 +24,15 @@ class IndexPage extends StatelessWidget {
             HeroView(
               apellidos: 'Partida Contreras',
               nombre: 'Luis Emilio',
-              puestos: [
+              puestos: const [
                 "Freelancer",
                 "Backend Developer",
                 "Frontend Developer"
               ],
             ),
-            AboutView(),
-            SkillsView(),
-            ResumenView(),
+            AboutView(color: Color(0xffffffff)),
+            SkillsView(color: Color(0xfff5f8fd)),
+            ResumenView(color: Color(0xffffffff)),
             PortafolioView()
           ],
         ),

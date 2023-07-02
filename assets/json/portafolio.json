@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Libreria",
+    "categoria": "movil",
+    "cliente": "",
+    "Fecha": "2021-01-22T06:00:00Z",
+    "proyecto": "",
+    "description": "#Libreria\n\nProyecto personal, para poder leer contenido pdf, \n\n## detalles\n\neste proyecto esta en construcción, y en actualización.\n\npuedes tener una demo en este enlace  [Obtener demo](https://drive.google.com/file/d/1Tr03igqAE1RGYjvld3G7FWTgfcwSWQgo/view?usp=sharing)"
+  },
+  {
+    "titulo": "Barberia Mendez",
+    "categoria": "Web",
+    "cliente": "",
+    "Fecha": "2021-10-21T05:00:00Z",
+    "proyecto": "https://barbershop-plum.vercel.app/",
+    "description": "Página creada para una barberia donde ofrece sus productos y puedes agendar citas (en proceso)"
+  },
+  {
+    "titulo": "Busqueda de centro de votación",
+    "categoria": "Web",
+    "cliente": "SNTSS",
+    "Fecha": "2021-11-10T06:00:00Z",
+    "proyecto": "https://sntss.vercel.app/",
+    "description": "Página para la facilitación de la busqueda de centro de votacion para legitimización del contrato colectivo de trabajo del SNTSS"
+  }
+]

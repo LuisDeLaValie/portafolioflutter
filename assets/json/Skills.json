@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "linux",
+    "Icon": "nf nf-fa-linux"
+  },
+  {
+    "titulo": "vs studio code",
+    "Icon": "bx bxl-visual-studio"
+  },
+  {
+    "titulo": "mongodb",
+    "Icon": "nf nf-dev-mongodb"
+  },
+  {
+    "titulo": "my sql",
+    "Icon": "nf nf-dev-mysql"
+  },
+  {
+    "titulo": "sql server",
+    "Icon": "nf nf-dev-msql_server"
+  },
+  {
+    "titulo": "github",
+    "Icon": "nf nf-fa-github_alt"
+  },
+  {
+    "titulo": "gitlab",
+    "Icon": "nf nf-fa-gitlab"
+  },
+  {
+    "titulo": "git",
+    "Icon": "nf nf-mdi-git"
+  },
+  {
+    "titulo": "dotnet",
+    "Icon": "nf nf-dev-dotnet"
+  },
+  {
+    "titulo": "c#",
+    "Icon": "nf nf-mdi-language_csharp"
+  },
+  {
+    "titulo": "flutter",
+    "Icon": "bx bxl-flutter"
+  },
+  {
+    "titulo": "dart",
+    "Icon": "nf nf-dev-dart"
+  },
+  {
+    "titulo": "terminal",
+    "Icon": "bx bxs-terminal"
+  },
+  {
+    "titulo": "html",
+    "Icon": "bx bxl-html5"
+  },
+  {
+    "titulo": "css",
+    "Icon": "bx bxl-css3"
+  },
+  {
+    "titulo": "javascript",
+    "Icon": "bx bxl-javascript"
+  },
+  {
+    "titulo": "Django",
+    "Icon": "bx bxl-django"
+  },
+  {
+    "titulo": "Python",
+    "Icon": "bx bxl-python"
+  }
+]

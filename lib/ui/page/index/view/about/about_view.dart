@@ -1,30 +1,39 @@
 import 'package:flutter/material.dart';
+
 import 'package:portafolioflutter/ui/page/index/view/about/detalles.dart';
 import 'package:portafolioflutter/ui/shared/titulos.dart';
+import 'package:portafolioflutter/ui/shared/views/sections_views.dart';
 
 class AboutView extends StatelessWidget {
-  const AboutView({Key? key}) : super(key: key);
+    final Color? color;
+
+  const AboutView({
+    Key? key,
+    this.color,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 50),
-      child: Column(
+    return SectionsViews(
+      title: 'Quién soy',
+      color: color,
+      view: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Titulos(texto: 'Quién soy'),
-          const SizedBox(height: 20),
-          Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              const Image(
-                image: AssetImage("img/indice.png"),
-                width: 300,
+          Container(
+            width: 300,
+            height: 400,
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(25),
+              color: Colors.white,
+              image: DecorationImage(
+                image: AssetImage('img/indice.png'),
+                fit: BoxFit.cover,
               ),
-              const SizedBox(width: 20),
-              Expanded(child: Detalles())
-            ],
-          )
+            ),
+          ),
+          const SizedBox(width: 20),
+          Expanded(child: Detalles())
         ],
       ),
     );
